@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background:url(Hexagon.svg);
+}
+
+#pai-formulario{
+    border-radius: 7%; 
+    width: 20%; 
+    text-align: center; 
+    padding: 1%; 
+    background: url(Abstract\ Paper.svg); 
+    color: white; border-radius: 10px; 
+    -webkit-border-radius: 7%; 
+    -moz-border-radius: 7%; 
+    -ms-border-radius: 7%; 
+    -o-border-radius: 7%;
+    float: right;
+    margin-right:38%;
+    margin-top: 7%;
+}
+
+#pai-formulario h1{
+margin-bottom: 5%;
+}
+
+#pai-formulario p{
+    margin-bottom: 5%;
+}
+
+form input{
+    margin: 2%;
+    color: rgb(6, 55, 202) ;
+}
+
+form option{
+    margin: 2%;
+    color: rgb(6, 55, 202);   
+}
+
+
+
+
+
